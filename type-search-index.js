@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cse360assignment02","l":"AddingMachine"},{"l":"All Classes","url":"allclasses-index.html"}]
